@@ -1,4 +1,4 @@
-![Screenshot](docs/images/screenshot.png)
+![Screenshot](screenshot.png)
 
 # Mello
 
