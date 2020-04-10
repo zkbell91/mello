@@ -1,25 +1,18 @@
-# README
+![Screenshot](docs/images/screenshot.png)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Mello
 
-Things you may want to cover:
+A Trello clone which dislays a Kanban style to do list. Mello gives the ability to sign up for an account, create and manage boards, and invite other users to contribute to boards.
 
-* Ruby version
+## Built With
 
-* System dependencies
+* Javascript frontend
+* Rails API
 
-* Configuration
+## Gems
 
-* Database creation
+* [Devise](https://github.com/heartcombo/devise) - User management and authentication
 
-* Database initialization
+## Acknowledgments
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# mello
+* [The Firehose Project](https://thefirehoseproject.com)
